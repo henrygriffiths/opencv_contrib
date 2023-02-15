@@ -1,3 +1,5 @@
+# This uses an old version of opencv-python to support a new build patch.
+
 ## Repository for OpenCV's extra modules
 
 This repository is intended for development of so-called "extra" modules,
